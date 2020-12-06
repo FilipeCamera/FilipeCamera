@@ -12,6 +12,5 @@ faço graduação em bacharelado de Ciências Exatas e Tecnológicas e Engenhari
 
 [![Linkedin Badge](https://img.shields.io/badge/-Filipe_Camera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Filipe_Camera/)](https://www.linkedin.com/in/Filipe_Camera/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeCamera)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeCamera)](https://github.com/anuraghazra/github-readme-stats)   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FilipeCamera&show_icons=true)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FilipeCamera&show_icons=true)
