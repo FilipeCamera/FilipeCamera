@@ -1,9 +1,11 @@
 <img src="https://github.com/FilipeCamera/FilipeCamera/blob/main/WorkaluLogo512.png" width="100" />
 
-# Olá, seja bem-vindo ao meu perfil! :octocat:
+# Hello, welcome to my profile! :octocat:
 
-### Meu nome é Filipe, :cat: <br/>
-faço graduação em bacharelado de Ciências Exatas e Tecnológicas e Engenharia da Computação pela Universidade Federal do Recôncavo da Bahia. Sou desenvolvedor nas horas livres e criador do Workalu.
+### My name is Filipe, :cat: <br/>
+1- I have a bachelor's degree in Exact and Technological Sciences and Computer Engineering from the Federal University of Recôncavo da Bahia.
+2- I'm a fullstack developer.
+3- Creator of workalu.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/LipinhoFI?color=blue&style=flat-square)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Workalu?color=blue&style=flat-square)
