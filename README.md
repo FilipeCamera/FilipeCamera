@@ -12,7 +12,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/FilipeCamera?style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/FilipeCamera?style=flat-square)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Filipe_Camera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Filipe_Camera/)](https://www.linkedin.com/in/Filipe_Camera/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Filipe_Camera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-camera-620308181/)](https://www.linkedin.com/in/filipe-camera-620308181/) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeCamera)](https://github.com/anuraghazra/github-readme-stats)   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FilipeCamera&show_icons=true)
 
