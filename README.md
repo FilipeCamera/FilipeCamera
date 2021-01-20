@@ -1,4 +1,4 @@
-<img src="https://github.com/FilipeCamera/FilipeCamera/blob/main/LogoWorkalu.png" width="100" />
+<img src="https://github.com/FilipeCamera/FilipeCamera/blob/main/WorkaluLogo512.png" width="100" />
 
 # Olá, seja bem-vindo ao meu perfil! :octocat:
 
