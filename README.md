@@ -1,5 +1,3 @@
-<img src="https://github.com/FilipeCamera/FilipeCamera/blob/main/WorkaluLogo512.png" width="100" />
-
 # Hello, welcome to my profile! :octocat:
 
 ### My name is Filipe, :cat: <br/>
