@@ -8,7 +8,6 @@
 3. Creator of workalu.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/LipinhoFI?color=blue&style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/Workalu?color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/FilipeCamera?style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/FilipeCamera?style=flat-square)
 
