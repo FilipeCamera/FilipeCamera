@@ -3,7 +3,6 @@
 ### My name is Filipe, :cat: <br/>
 1. I have a bachelor's degree in Exact and Technological Sciences and Computer Engineering from the Federal University of Recôncavo da Bahia.
 2. I'm a fullstack developer.
-3. Creator of workalu.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/LipinhoFI?color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/FilipeCamera?style=flat-square)
