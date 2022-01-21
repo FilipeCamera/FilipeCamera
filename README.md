@@ -10,9 +10,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Filipe_Camera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-camera-620308181/)](https://www.linkedin.com/in/filipe-camera-620308181/) 
 
-<code><img height="20" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=typescript&logoColor=white"></img></code>
-<code><img height="20" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=javascript&logoColor=white"></img></code>
-<code><img height="20" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=nodejs&logoColor=white"></img></code>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeCamera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FilipeCamera&show_icons=true)
 
 <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=filipecamera&theme=dark" alt="filipecamera" />
